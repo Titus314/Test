@@ -1,0 +1,1 @@
+Desoefteren kommt es vor, dass bestimmte Dateien nicht versioniert werden sollen. Das kann verschiedene Gründe haben, bspw. automatische Erstellung beim Build, Logfiles usw. Mit Hilfe einer .gitignore-Datei kann dieses Tracking durch Git umgangen werden.
